@@ -32,7 +32,7 @@ Etiquette: When destroying a land, prioritize ones with non-mana abilities or ef
 
 ## Tutors
 
-* Only tutor for Forest, Island, Mountain, Plains, Swamp, or Wastes cards
+* Only tutor for Basic Land, Forest, Island, Mountain, Plains, or Swamp cards
 
 ## Enforcement
 
